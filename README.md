@@ -1,16 +1,15 @@
-## Hi there 👋
+### I'm Jannis
 
-<!--
-**poaopotato/poaopotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Knowledge
 
-Here are some ideas to get you started:
+![Skill Icons](https://skillicons.dev/icons?i=cpp,html,js,python,windows,linux,vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Skill Icons](https://skillicons.dev/icons?i=php,java,css,mysql,docker,git,unity,blender,idea,visualstudio)
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=flat-square)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-1e1e2e?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-1e1e2e?style=flat-square)
+
+## About
+
+I'm constantly learning and trying out new technologies - from small scripts and web projects to 3D/game experiments. Feel free to browse my repositories.
